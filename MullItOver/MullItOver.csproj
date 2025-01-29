@@ -9,7 +9,7 @@
 
 	<PropertyGroup>
 		<CodeAnalysisRuleSet>juniormind.ruleset</CodeAnalysisRuleSet>
-		<StartupObject>HistorianHysteria.Program</StartupObject>
+		<StartupObject>MullItOver.Program</StartupObject>
 	</PropertyGroup>
 
   <ItemGroup>
